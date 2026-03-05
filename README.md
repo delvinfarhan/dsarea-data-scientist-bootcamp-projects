@@ -67,7 +67,7 @@ Beberapa langkah yang dilakukan:
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Google Colab
 
 ---
 
